@@ -1,0 +1,20 @@
+{
+  "id": "trane::music::improvisation::major_mode_1",
+  "name": "Major Mode Improvisation 1",
+  "dependencies": [],
+  "description": "Improvise on basic patterns of the major mode",
+  "authors": [
+    "The Trane Project"
+  ],
+  "metadata": null,
+  "course_material": null,
+  "course_instructions": null,
+  "generator_config": {
+    "Improvisation": {
+      "improvisation_dependencies": [],
+      "rhythm_only": false,
+      "passage_directory": "passages",
+      "file_extensions": ["ly"]
+    }
+  }
+}
